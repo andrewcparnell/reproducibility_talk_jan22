@@ -1,0 +1,26 @@
+.gdbar img {
+  width: 215px !important;
+  height: 80px !important;
+  margin: 4px 4px;
+}
+
+.gdbar {
+  width: 400px !important;
+  height: 100px !important;
+}
+
+slides > slide {
+  font-family: "Futura", Times, serif;
+}
+
+
+slides > slide:not(.nobackground):before {
+  width: 108px;
+  height: 40px;
+  background-size: 108px 40px;
+}
+
+body{
+  font-family: Helvetica;
+  font-size: 24pt;
+}

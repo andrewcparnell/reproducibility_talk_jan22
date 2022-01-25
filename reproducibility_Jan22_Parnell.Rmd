@@ -1,0 +1,63 @@
+---
+title: "Reproduction as an enjoyable and important part of your research"
+author: "Andrew C Parnell <br>`andrew.parnell@mu.ie`"
+date: "28th January 2022 <br> https://is.gd/reproduction"
+output: 
+  ioslides_presentation: 
+    css: my-style.css
+    widescreen: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.width = 7, fig.align = 'center')
+library(tidyverse)
+library(viridis)
+```
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function() {
+      $('slide:not(.title-slide, .backdrop, .segue)').append('<footer label=\"Reproduction as part of your research | Andrew Parnell\"></footer>');    
+    })
+</script>
+
+<style>
+  footer:after {
+    content: attr(label);
+    font-size: 12pt;
+    position: absolute;
+    bottom: 30px;
+    left: 200px;
+    line-height: 1.9;
+  }
+</style>
+
+## Contents
+
+- Not about the birds and the bees! Instead __reproducibility__
+
+1. Some stories
+2. A task for you
+3. Some advice
+
+
+
+# Story number 1: Climate change and pollen {data-background=https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg data-background-size=cover}
+
+# Story number 2: Radiocarbon dating {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
+
+# Part 2: A task {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
+
+
+
+
+## Details about the task
+
+# Part 3: Some advice
+
+# Another story: my attempt at reprodcubility done properly
+
+## Stable isotope analysis
+
+## Tips for 
