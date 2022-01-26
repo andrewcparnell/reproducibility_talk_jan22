@@ -64,36 +64,60 @@ Layout:
 # 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1VWybIFCQdLJblbPHu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/no-rainbow-nope-1VWybIFCQdLJblbPHu">via GIPHY</a></p>
 
-# Part 2: A task {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
+# Part 2: A task {data-background=https://giphy.com/embed/gH85KtY9fX2yd9eG4F data-background-size=cover}
 
 ## Details
 
-1. Download this file from GitHub: https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/IPCC_AR6_WGI_references.pdf
+1. Download this file from GitHub: https://is.gd/IPCC2022
 2. There are 62 pages, so run `sample(1:62, 1)` (`random.choice(range(1, 62)`) in python).  Then count the number of references and do `sample(1:n_ref, 1)` to pick a random paper and copy the DOI (must start with 10.)
 3. Search for the term `data`, note down the number of times it is mentioned 
 4. Search for `code`, note down the number of times it is mentioned 
 5. Search for `http` - see if there is code or data linked to the article that can be downloaded
-6. Fill in the Google form https://docs.google.com/forms/d/e/1FAIpQLSc_So0kdvn5mOdg77UGUqNdCxJmZPph7QfBP51T3Y431OHMQQ/viewform?usp=sf_link
+6. Fill in the Google form https://is.gd/IPCCform
 
-# Another story: my attempt at reproducibility done properly 
+# Another story: my attempt at reproducibility done properly {data-background=https://andrewcparnell.github.io/Bchron/articles/Bchron_files/figure-html/code.png data-background-size=cover}
 
 ## Back in time
 
 <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/me2008.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
-# A stable isotope mixing model
+## A stable isotope mixing model
 
-# First publications
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms1.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
-# A social media 'strategy'
+## First publications
 
-# Environmetrics and doing it wrong
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_pubs.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
-# How it's used
+## A social media 'strategy'
 
-# GitHub pages and manuals
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_social_media.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
-# Some overall lessons I learnt
+## Environmetrics and doing it wrong
+
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_environmetrics.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
+
+## How it's used
+
+- Management and potential collapse of important microscopic plankton in the Ionian Sea,
+- Whether American Black Bears are consuming human crops, 
+- The impacts of predator/prey removal and the new EU Common Fishery policy, 
+- The effects of land use on living beings in river streams and the link between storm-water run-off and pollution, 
+- How the diets of individual Neanderthals differed from others, 
+- The metabolic rate of Bottlenose dolphins, 
+- The life cycle of Uruguayan Green turtles,
+- The increase of trace heavy metals in seagrass leaves
+
+## GitHub pages and manuals
+
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_github.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
+
+## Some overall lessons I learnt
+
+- If you want lots of citations write open-source software and get feedback from users
+- Get users or non-expert collaborators to help write the instruction manual
+- Keep (at least the first paper) as simple as possible
+- Use social media and answer queries as quickly as you can
 
 # Part 3: 5 pieces of advice
 
@@ -113,18 +137,19 @@ Layout:
 
 ## Some useful resources
 
-1. Writing R packages
-2. The BES guide
-3. https://git-lfs.github.com
-4. Folder structures: https://github.com/ropensci/rrrpkg
+1. [Writing R packages](https://r-pkgs.org)
+2. [The BES guide to reproducibility]( https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+3. [GitHub](https://github.com) and [Github Large File Storage](https://git-lfs.github.com)
+4. Defining good [folder structures]( https://github.com/ropensci/rrrpkg)
 
 ## The future!
 
-	1. All journals requiring code/data that runs and/or reproduces the figures
+	1. All journals requiring code/data that runs and reproduces the figures
 	2. The ability to submit data (done) and the ability to submit code (Zenodo?)
 	3. Automated reproducibility
 	
 ## Summary
+
 	1. Making your papers/code reproducible is to your advantage* (*if you're intending to pursue a career in academia)
 	2. Learn the tools of the trade (e.g. R packages, Rmarkdown, GitHub) for reproducibility
 	3. Make reproducibility a cornerstone of every paper you write
@@ -132,6 +157,11 @@ Layout:
 	
 # Back to the IPCC results
 
-## Resources for this talk
+## Resources and funding
 
-# Thank you!
+
+
+Thank you!
+
+
+
