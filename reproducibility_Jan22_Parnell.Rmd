@@ -194,12 +194,19 @@ Layout:
 
 ## Resources and funding
 
-Title slide: [NIAID](https://www.flickr.com/photos/niaid/)
-Monticchio: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg)
-[BART generator](http://www.ranzey.com/generators/bart/index.html)
-[Walking](https://www.flickr.com/photos/gato-gato-gato/)
+Monticchio: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg);
+gifs: [Giphy](https://giphy.com);
+AMS machine: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg);
+Roadworks background: [flickr/Jeremy Segrott](https://www.flickr.com/photos/126337928@N05/);
+Baby turtle: [flickr/Pedro Szekely](https://www.flickr.com/photos/pedrosz/);
+[BART generator](http://www.ranzey.com/generators/bart/index.html);
+Anger: [flickr/Saurabh Vyas](https://www.flickr.com/photos/vyassaurabh411/);
+Walking: [flickr/gato-gato-gato](https://www.flickr.com/photos/gato-gato-gato/)
 
-Thank you!
+This work was supported by a Science Foundation Ireland Career Development Award grant 17/CDA/4695
 
+<center>
 
+<font size="6"><span style="color:red;">Thank you!</span></font>
 
+</center>
