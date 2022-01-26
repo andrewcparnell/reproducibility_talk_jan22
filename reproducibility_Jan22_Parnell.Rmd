@@ -10,7 +10,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, fig.width = 7, fig.align = 'center')
+knitr::opts_chunk$set(echo = FALSE, fig.width = 5, fig.align = 'center')
 library(tidyverse)
 library(viridis)
 ```
@@ -50,32 +50,36 @@ Layout:
 
 # Story number 1: Climate change and pollen {data-background=https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg data-background-size=cover}
 
-# Spreadsheet
+# 
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/LJPfWhMCs9Rks" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shocked-surprise-LJPfWhMCs9Rks">via GIPHY</a></p>
 
-# Shock
+# {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/xl.png data-background-size=cover}
 
 # Story number 2: Radiocarbon dating {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
 
-# Radiocarbon calibration
+## Radiocarbon calibration
 
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://andrewcparnell.github.io/Bchron/articles/Bchron_files/figure-html/unnamed-chunk-9-1.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
-
-# No
+# 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1VWybIFCQdLJblbPHu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/no-rainbow-nope-1VWybIFCQdLJblbPHu">via GIPHY</a></p>
 
 # Part 2: A task {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
 
 ## Details
 
-1. Download this file from GitHub: HERE
-2. There are 62 pages, so run `sample(1:62, 1)` (`random.choice(range(1, 62)`) in python).  Then count the number of references and do `sample(1:n_ref, 1)` to pick a random paper
+1. Download this file from GitHub: https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/IPCC_AR6_WGI_references.pdf
+2. There are 62 pages, so run `sample(1:62, 1)` (`random.choice(range(1, 62)`) in python).  Then count the number of references and do `sample(1:n_ref, 1)` to pick a random paper and copy the DOI (must start with 10.)
 3. Search for the term `data`, note down the number of times it is mentioned 
-4. Search for `code`, note down the number of times it's mentioned 
+4. Search for `code`, note down the number of times it is mentioned 
 5. Search for `http` - see if there is code or data linked to the article that can be downloaded
-6. Copy the doi from the paper and fill in the Microsoft form HERE
+6. Fill in the Google form https://docs.google.com/forms/d/e/1FAIpQLSc_So0kdvn5mOdg77UGUqNdCxJmZPph7QfBP51T3Y431OHMQQ/viewform?usp=sf_link
 
-# Another story: my attempt at reproducibility done properly
+# Another story: my attempt at reproducibility done properly 
 
-# Back in time
+## Back in time
+
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/me2008.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
 # A stable isotope mixing model
 
