@@ -72,7 +72,7 @@ Layout:
 
 # Part 2: A task {data-background=https://live.staticflickr.com/5743/23287131203_6b2dab6e92_c_d.jpg data-background-size=cover}
 
-## Details
+## Your mission...
 
 1. Download this file from GitHub: https://is.gd/IPCC2022
 2. There are 62 pages, so run `sample(1:62, 1)` (or `random.choice(range(1, 62)`) in python).  Then count the number of references and do `sample(1:n_ref, 1)` to pick a random paper and copy the DOI
@@ -80,28 +80,29 @@ Layout:
 4. Search for `code`, note down the number of times it is mentioned 
 5. Search for `http` - see if there is code or data linked to the article that can be downloaded
 6. Fill in the Google form https://is.gd/IPCCform
+7. Repeat as many times as you want
 
 # Another story: my attempt at reproducibility done properly {data-background=https://live.staticflickr.com/893/42328565782_4d2a4de8a2_c_d.jpg data-background-size=cover}
 
 ## Back in time
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/me2008.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/me2008.png" width="100%" height="100%" style="position:absolute" allowFullScreen></img></div>
 
 ## A stable isotope mixing model
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms1.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms1.png" width="100%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
 ## First publications
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_pubs.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_pubs.png" width="100%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
 ## A social media 'strategy'
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_social_media.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_social_media.png" width="100%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
 ## Environmetrics and doing it wrong
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_environmetrics.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_environmetrics.png" width="100%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
 ## How it's used
 
@@ -116,7 +117,7 @@ Layout:
 
 ## GitHub pages and manuals
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_github.png" width="65%" height="65%" style="position:absolute" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_github.png" width="100%" height="65%" style="position:absolute" allowFullScreen></img></div>
 
 ## Some overall lessons I learnt
 

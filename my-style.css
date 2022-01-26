@@ -28,7 +28,6 @@ body{
 slides>slide.title-slide {
   background-image: url('https://live.staticflickr.com/65535/51638651358_dc0e0d6d60_c_d.jpg');
   background-size: 100% 100%;
-  filter: grayscale(0.5);
 }
 
 slides > slide.title-slide p{
