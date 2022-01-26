@@ -54,14 +54,14 @@ Layout:
 
 <span style="color:black">4. Some advice</span><br>
 
-# Story number 1: Climate change and pollen {data-background=https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg data-background-size=cover}
+# <span style = "color:orangered;position:relative;top:50px;">Story number 1: Climate change and pollen</span> {data-background=https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg data-background-size=cover}
 
 # 
 <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/LJPfWhMCs9Rks" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shocked-surprise-LJPfWhMCs9Rks">via GIPHY</a></p>
 
 # {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/xl.png data-background-size=cover}
 
-# Story number 2: Radiocarbon dating {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
+# <span style = "color:mediumspringgreen;position:relative;top:100px;">Story number 2: Radiocarbon dating</span> {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
 
 ## Radiocarbon calibration
 
@@ -132,7 +132,7 @@ Layout:
 
 - Management and potential collapse of important <span style="color:red">microscopic plankton</span> in the Ionian Sea,
 - Whether American <span style="color:orange">Black Bears</span> are consuming human crops, 
-- The impacts of predator/prey removal and the new <span style="color:yellow">EU Common Fishery policy</span>, 
+- The impacts of predator/prey removal and the new <span style="color:gold">EU Common Fishery policy</span>, 
 - The effects of land use on living beings in <span style="color:green">river streams</span> and the link between storm-water run-off and pollution, 
 - How the diets of individual <span style="color:blue">Neanderthals</span> differed from others, 
 - The metabolic rate of <span style="color:indigo">Bottlenose dolphins</span>, 
@@ -154,14 +154,14 @@ Layout:
 - <font size="6">Keep (at least the first paper) <span style="color:blue">as simple as possible</span></font>
 - <font size="6">Use social media and <span style="color:purple">answer queries</span> as quickly as you can</font>
 
-# Part 3: 5 pieces of advice {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/advice.png data-background-size=cover}
+# <span style = "color:white;position:relative;top:150px;">Part 3: 5 pieces of advice</span> {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/advice.png data-background-size=cover}
 
 # 1. You can't<br>make your<br>work <br>completely<br>reproducible {data-background=https://live.staticflickr.com/5453/7368419622_d2d2125e1c_k_d.jpg data-background-size=100%}
 
 ## 2. .. but try to make every piece of work you do as reproducible as possible
 
 1. <font size="6">Make it <span style="color:red">open access</span> (pretty much compulsory these days)</font>
-2. <font size="6">Make it so that people (especially you) can <span style="color:green">re-create your graphs</span></font>
+2. <font size="6">Make it so that people can <span style="color:green">re-create your graphs</span></font>
 3. <font size="6">Make it so that they can <span style="color:blue">generalise your code</span></font>
 
 # <span style="color:red">3. Aim to turn every paper you write into an R package</span> {data-background=https://github.githubassets.com/images/modules/logos_page/Octocat.png data-background-size=50%}
@@ -179,18 +179,18 @@ Layout:
 
 ## The future!
 
-1. <font size="6">IAll journals requiring code/data that runs and <span style="color:red">open-source</span> reproduces the figures</font>
+1. <font size="6">All journals requiring code/data that runs and <span style="color:red">open-source</span> reproduces the figures</font>
 2. <font size="6">The ability to <span style="color:orange">submit data</span> (done) and the ability to <span style="color:green">submit code</span> and get a DOI</font>
 3. <font size="6"><span style="color:blue">Automated reproducibility</span></font>
 
 ## Summary
 
-1. Making your papers/code reproducible is to your advantage* (*if you're intending to pursue a career in academia)
-2. Learn the tools of the trade (e.g. R packages, Rmarkdown, GitHub) for reproducibility
-3. Make reproducibility a cornerstone of every paper you write
-4. Do you best and don't beat yourself up about not making everything reproducible
+1. Making your papers/code reproducible is to <span style="color:gold;">your advantage</span>* (*if you're intending to pursue a career in academia)
+2. Learn the <span style="color:darkblue;">tools of the trade</span> (e.g. R packages, Rmarkdown, GitHub) for reproducibility
+3. Make reproducibility a cornerstone of <span style="color:darkslategray;">every paper</span> you write
+4. Do you best and <span style="color:crimson;">don't beat yourself up</span> about not making everything reproducible
 	
-# Back to the IPCC results
+# Back to the IPCC results {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/VegasHDR14.jpg data-background-size=100%}
 
 ## Resources and funding
 
