@@ -100,7 +100,7 @@ Layout:
 
 <center>
 
-![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms1.png){width=50%}
+![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/SIMMs1.png){width=100%}
 
 </center>
 
@@ -108,7 +108,7 @@ Layout:
 
 <center>
 
-![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_pubs.png){width=50%}
+![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_pubs.png){width=100%}
 
 </center>
 
@@ -116,7 +116,7 @@ Layout:
 
 <center>
 
-![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_social_media.png){width=50%}
+![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_social_media.png){width=100%}
 
 </center>
 
@@ -124,33 +124,37 @@ Layout:
 
 <center>
 
-![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_environmetrics.png){width=50%}
+![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_environmetrics.png){width=100%}
 
 </center>
 
 ## How it's used
 
 - Management and potential collapse of important <span style="color:red">microscopic plankton</span> in the Ionian Sea,
-- Whether American <span style="color:red">Black Bears</span> are consuming human crops, 
-- The impacts of predator/prey removal and the new <span style="color:red">EU Common Fishery policy</span>, 
-- The effects of land use on living beings in <span style="color:red">river streams</span> and the link between storm-water run-off and pollution, 
-- How the diets of individual <span style="color:red">Neanderthals</span> differed from others, 
-- The metabolic rate of <span style="color:red">Bottlenose dolphins</span>, 
-- The life cycle of Uruguayan <span style="color:red">Green turtles</span>,
-- The increase of trace heavy metals in <span style="color:red">seagrass leaves</span>
+- Whether American <span style="color:orange">Black Bears</span> are consuming human crops, 
+- The impacts of predator/prey removal and the new <span style="color:yellow">EU Common Fishery policy</span>, 
+- The effects of land use on living beings in <span style="color:green">river streams</span> and the link between storm-water run-off and pollution, 
+- How the diets of individual <span style="color:blue">Neanderthals</span> differed from others, 
+- The metabolic rate of <span style="color:indigo">Bottlenose dolphins</span>, 
+- The life cycle of Uruguayan <span style="color:violet">Green turtles</span>,
+- The increase of trace heavy metals in <span style="color:purple">seagrass leaves</span>
 
 ## GitHub pages and manuals
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_github.png" width="100%" height="65%" style="position:absolute" allowFullScreen></img></div>
+<center>
+
+![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/simms_github.png){width=100%}
+
+</center>
 
 ## Some overall lessons I learnt
 
-- If you want lots of citations write <span style="color:red">open-source</span> software and get feedback from users
-- Get users or non-expert <span style="color:red">collaborators</span> to help write the instruction manual
-- Keep (at least the first paper) <span style="color:red">as simple as possible</span>
-- Use social media and <span style="color:red">answer queries</span> as quickly as you can
+- <font size="6">If you want lots of citations write <span style="color:red">open-source</span> software and get feedback from users</font>
+- <font size="6">Get users or non-expert <span style="color:green">collaborators</span> to help write the instruction manual</font>
+- <font size="6">Keep (at least the first paper) <span style="color:blue">as simple as possible</span></font>
+- <font size="6">Use social media and <span style="color:purple">answer queries</span> as quickly as you can</font>
 
-# Part 3: 5 pieces of advice
+# Part 3: 5 pieces of advice {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/advice.png data-background-size=cover}
 
 # 1. You can't make your work completely reproducible
 
@@ -192,7 +196,7 @@ Layout:
 
 Title slide: [NIAID](https://www.flickr.com/photos/niaid/)
 Monticchio: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg)
-
+[BART generator](http://www.ranzey.com/generators/bart/index.html)
 Thank you!
 
 
