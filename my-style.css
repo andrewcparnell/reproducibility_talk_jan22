@@ -1,5 +1,5 @@
 .gdbar img {
-  width: 215px !important;
+  width: 150px !important;
   height: 80px !important;
   margin: 4px 4px;
 }
@@ -7,6 +7,7 @@
 .gdbar {
   width: 400px !important;
   height: 100px !important;
+  color: white;
 }
 
 slides > slide {
@@ -26,7 +27,7 @@ body{
 }
 
 slides>slide.title-slide {
-  background-image: url('https://live.staticflickr.com/65535/51638651358_dc0e0d6d60_c_d.jpg');
+  background-image: url('https://live.staticflickr.com/65535/51638651358_dc0e0d6d60_b_d.jpg');
   background-size: 100% 100%;
 }
 
