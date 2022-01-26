@@ -156,25 +156,19 @@ Layout:
 
 # Part 3: 5 pieces of advice {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/advice.png data-background-size=cover}
 
-## 1. You can't make your work completely reproducible
+# 1. You can't<br>make your<br>work <br>completely<br>reproducible {data-background=https://live.staticflickr.com/5453/7368419622_d2d2125e1c_k_d.jpg data-background-size=100%}
 
-<iframe src="https://giphy.com/embed/11tTNkNy1SdXGg" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-11tTNkNy1SdXGg">via GIPHY</a></p>
+## 2. .. but try to make every piece of work you do as reproducible as possible
 
-## 2. .. but try to make every piece of work you do as reproducible as possible via
+1. <font size="6">Make it <span style="color:red">open access</span> (pretty much compulsory these days)</font>
+2. <font size="6">Make it so that people (especially you) can <span style="color:green">re-create your graphs</span></font>
+3. <font size="6">Make it so that they can <span style="color:blue">generalise your code</span></font>
 
-1. Make it <span style="color:red">open access</span> (pretty much compulsory these days)
-2. Make it so that people (especially you) can <span style="color:green">re-create your graphs</span>
-3. Make it so that they can <span style="color:blue">generalise your code</span>
+# <span style="color:red">3. Aim to turn every paper you write into an R package</span> {data-background=https://github.githubassets.com/images/modules/logos_page/Octocat.png data-background-size=50%}
 
-## 3. Aim to turn every paper you write into an R package and at least put it on GitHub or similar 
+# <span style="color:yellow">4. Write better comments in your code (but nobody writes good comments)</span> {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/code.png data-background-size=cover}
 
-<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
-
-# <span style="color:pink">4. Write better comments in your code (but nobody writes good comments</span>) {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/code.png data-background-size=cover}
-
-## 5. Don't walk away from your hard work if you want to reap the benefits from it
-
-<iframe src="https://giphy.com/embed/jUwpNzg9IcyrK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-simpsons-scared-homer-simpson-jUwpNzg9IcyrK">via GIPHY</a></p>
+# <span style="color:coral; position:relative; top:170px;">5. Don't walk away from your hard work if you want to reap the benefits from it</span> {data-background=https://live.staticflickr.com/8277/30124375940_92e45afbf3_k_d.jpg data-background-size=cover}
 
 ## Some useful resources
 
@@ -203,6 +197,8 @@ Layout:
 Title slide: [NIAID](https://www.flickr.com/photos/niaid/)
 Monticchio: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg)
 [BART generator](http://www.ranzey.com/generators/bart/index.html)
+[Walking](https://www.flickr.com/photos/gato-gato-gato/)
+
 Thank you!
 
 
