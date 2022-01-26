@@ -5,6 +5,7 @@ date: "28th January 2022 <br> https://is.gd/reproduction"
 output: 
   ioslides_presentation: 
     css: my-style.css
+    transition: slower
     widescreen: yes
 ---
 
@@ -35,29 +36,98 @@ library(viridis)
 
 ## Contents
 
-- Not about the birds and the bees! Instead __reproducibility__
+- Not about the birds and the bees! Instead <span class="red2" style="font-family:'Courier'">
+__reproducibility__</span>
+
+<br> <br>
+
+Layout:
 
 1. Some stories
 2. A task for you
-3. Some advice
-
-
+3. Another story
+4. Some advice
 
 # Story number 1: Climate change and pollen {data-background=https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg data-background-size=cover}
 
+# Spreadsheet
+
+# Shock
+
 # Story number 2: Radiocarbon dating {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
+
+# Radiocarbon calibration
+
+
+
+# No
 
 # Part 2: A task {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
 
+## Details
 
+1. Download this file from GitHub: HERE
+2. There are 62 pages, so run `sample(1:62, 1)` (`random.choice(range(1, 62)`) in python).  Then count the number of references and do `sample(1:n_ref, 1)` to pick a random paper
+3. Search for the term `data`, note down the number of times it is mentioned 
+4. Search for `code`, note down the number of times it's mentioned 
+5. Search for `http` - see if there is code or data linked to the article that can be downloaded
+6. Copy the doi from the paper and fill in the Microsoft form HERE
 
+# Another story: my attempt at reproducibility done properly
 
-## Details about the task
+# Back in time
 
-# Part 3: Some advice
+# A stable isotope mixing model
 
-# Another story: my attempt at reprodcubility done properly
+# First publications
 
-## Stable isotope analysis
+# A social media 'strategy'
 
-## Tips for 
+# Environmetrics and doing it wrong
+
+# How it's used
+
+# GitHub pages and manuals
+
+# Some overall lessons I learnt
+
+# Part 3: 5 pieces of advice
+
+# 1. You can't make your work completely reproducible
+
+## 2. .. but try to make every piece of work you do as reproducible as possible via
+
+1. Make it open access (pretty much compulsory these days)
+2. Make it so that people (especially you) can re-create your graphs
+3. Make it so that they can generalise your code
+
+# 3. Aim to turn every paper you write into an R package and at least put it on GitHub or similar
+
+# 4. Write better comments in your code (nobody writes good comments)
+
+# 5. Don't walk away from your hard work if you want to reap the benefits from it, (and be brave about mistakes in your shared code)
+
+## Some useful resources
+
+1. Writing R packages
+2. The BES guide
+3. https://git-lfs.github.com
+4. Folder structures: https://github.com/ropensci/rrrpkg
+
+## The future!
+
+	1. All journals requiring code/data that runs and/or reproduces the figures
+	2. The ability to submit data (done) and the ability to submit code (Zenodo?)
+	3. Automated reproducibility
+	
+## Summary
+	1. Making your papers/code reproducible is to your advantage* (*if you're intending to pursue a career in academia)
+	2. Learn the tools of the trade (e.g. R packages, Rmarkdown, GitHub) for reproducibility
+	3. Make reproducibility a cornerstone of every paper you write
+	4. Do you best and don't beat yourself up about not making everything reproducible
+	
+# Back to the IPCC results
+
+## Resources for this talk
+
+# Thank you!

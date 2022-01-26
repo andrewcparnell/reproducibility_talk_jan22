@@ -3099,18 +3099,18 @@ if (document.readyState !== "loading" &&
     }
 
     slides > slide {
-      -webkit-transition: all 0.4s ease-in-out;
-      -moz-transition: all 0.4s ease-in-out;
-      -o-transition: all 0.4s ease-in-out;
-      transition: all 0.4s ease-in-out;
+      -webkit-transition: all 0.6s ease-in-out;
+      -moz-transition: all 0.6s ease-in-out;
+      -o-transition: all 0.6s ease-in-out;
+      transition: all 0.6s ease-in-out;
     }
 
     .auto-fadein {
       -webkit-transition: opacity 0.6s ease-in;
-      -webkit-transition-delay: 0.4s;
-      -moz-transition: opacity 0.6s ease-in 0.4s;
-      -o-transition: opacity 0.6s ease-in 0.4s;
-      transition: opacity 0.6s ease-in 0.4s;
+      -webkit-transition-delay: 0.6s;
+      -moz-transition: opacity 0.6s ease-in 0.6s;
+      -o-transition: opacity 0.6s ease-in 0.6s;
+      transition: opacity 0.6s ease-in 0.6s;
       opacity: 0;
     }
 /* https://github.com/ropensci/plotly/pull/524#issuecomment-468142578 */
@@ -3187,32 +3187,119 @@ font-size: 24pt;
 <slide class=""><hgroup><h2>Contents</h2></hgroup><article  id="contents">
 
 <ul>
-<li>Not about the birds and the bees! Instead <strong>reproducibility</strong></li>
+<li>Not about the birds and the bees! Instead <span class="red2" style="font-family:&#39;Courier&#39;">
+ <strong>reproducibility</strong></span></li>
 </ul>
+
+<p><br> <br></p>
+
+<p>Layout:</p>
 
 <ol>
 <li>Some stories</li>
 <li>A task for you</li>
+<li>Another story</li>
 <li>Some advice</li>
 </ol>
 
 </article></slide><slide class="segue nobackground level1 fill" style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg); background-size: cover; background-position: center;"><hgroup class = 'auto-fadein'><h2>Story number 1: Climate change and pollen</h2></hgroup><article  id="story-number-1-climate-change-and-pollen">
 
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Spreadsheet</h2></hgroup><article  id="spreadsheet">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2></h2></hgroup><article  id="section">
+
+<iframe src="https://giphy.com/embed/LJPfWhMCs9Rks" width="480" height="353" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+
+<p>
+
+<a href="https://giphy.com/gifs/shocked-surprise-LJPfWhMCs9Rks">via GIPHY</a>
+
+</p>
+
 </article></slide><slide class="segue nobackground level1 fill" style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg); background-size: cover; background-position: center;"><hgroup class = 'auto-fadein'><h2>Story number 2: Radiocarbon dating</h2></hgroup><article  id="story-number-2-radiocarbon-dating">
 
-</article></slide><slide class=""><hgroup><h2>Radiocarbon dating</h2></hgroup><article  id="radiocarbon-dating">
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Radiocarbon calibration</h2></hgroup><article  id="radiocarbon-calibration">
 
-</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Past 2: A task</h2></hgroup><article  id="past-2-a-task">
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>No</h2></hgroup><article  id="no">
 
-</article></slide><slide class=""><hgroup><h2>Details about the task</h2></hgroup><article  id="details-about-the-task">
+</article></slide><slide class="segue nobackground level1 fill" style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg); background-size: cover; background-position: center;"><hgroup class = 'auto-fadein'><h2>Part 2: A task</h2></hgroup><article  id="part-2-a-task">
 
-</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Part 3: Some advice</h2></hgroup><article  id="part-3-some-advice">
+</article></slide><slide class=""><hgroup><h2>Details</h2></hgroup><article  id="details">
 
-</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Another story: my attempt at reprodcubility done properly</h2></hgroup><article  id="another-story-my-attempt-at-reprodcubility-done-properly">
+<ol>
+<li>Download this file from GitHub: HERE</li>
+<li>There are 62 pages, so run <code>sample(1:62, 1)</code> (<code>random.choice(range(1, 62)</code>) in python). Then count the number of references and do <code>sample(1:n_ref, 1)</code> to pick a random paper</li>
+<li>Search for the term <code>data</code>, note down the number of times it is mentioned</li>
+<li>Search for <code>code</code>, note down the number of times it’s mentioned</li>
+<li>Search for <code>http</code> - see if there is code or data linked to the article that can be downloaded</li>
+<li>Copy the doi from the paper and fill in the Microsoft form HERE</li>
+</ol>
 
-</article></slide><slide class=""><hgroup><h2>Stable isotope analysis</h2></hgroup><article  id="stable-isotope-analysis">
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Another story: my attempt at reproducibility done properly</h2></hgroup><article  id="another-story-my-attempt-at-reproducibility-done-properly">
 
-</article></slide><slide class=""><hgroup><h2>Tips for</h2></hgroup><article  id="tips-for"></article></slide>
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Back in time</h2></hgroup><article  id="back-in-time">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>A stable isotope mixing model</h2></hgroup><article  id="a-stable-isotope-mixing-model">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>First publications</h2></hgroup><article  id="first-publications">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>A social media &lsquo;strategy&rsquo;</h2></hgroup><article  id="a-social-media-strategy">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Environmetrics and doing it wrong</h2></hgroup><article  id="environmetrics-and-doing-it-wrong">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>How it’s used</h2></hgroup><article  id="how-its-used">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>GitHub pages and manuals</h2></hgroup><article  id="github-pages-and-manuals">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Some overall lessons I learnt</h2></hgroup><article  id="some-overall-lessons-i-learnt">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Part 3: 5 pieces of advice</h2></hgroup><article  id="part-3-5-pieces-of-advice">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>1. You can’t make your work completely reproducible</h2></hgroup><article  id="you-cant-make-your-work-completely-reproducible">
+
+</article></slide><slide class=""><hgroup><h2>2. .. but try to make every piece of work you do as reproducible as possible via</h2></hgroup><article  id="but-try-to-make-every-piece-of-work-you-do-as-reproducible-as-possible-via">
+
+<ol>
+<li>Make it open access (pretty much compulsory these days)</li>
+<li>Make it so that people (especially you) can re-create your graphs</li>
+<li>Make it so that they can generalise your code</li>
+</ol>
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>3. Aim to turn every paper you write into an R package and at least put it on GitHub or similar</h2></hgroup><article  id="aim-to-turn-every-paper-you-write-into-an-r-package-and-at-least-put-it-on-github-or-similar">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>4. Write better comments in your code (nobody writes good comments)</h2></hgroup><article  id="write-better-comments-in-your-code-nobody-writes-good-comments">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>5. Don’t walk away from your hard work if you want to reap the benefits from it, (and be brave about mistakes in your shared code)</h2></hgroup><article  id="dont-walk-away-from-your-hard-work-if-you-want-to-reap-the-benefits-from-it-and-be-brave-about-mistakes-in-your-shared-code">
+
+</article></slide><slide class=""><hgroup><h2>Some useful resources</h2></hgroup><article  id="some-useful-resources">
+
+<ol>
+<li>Writing R packages</li>
+<li>The BES guide</li>
+<li><a href='https://git-lfs.github.com' title=''>https://git-lfs.github.com</a></li>
+<li>Folder structures: <a href='https://github.com/ropensci/rrrpkg' title=''>https://github.com/ropensci/rrrpkg</a></li>
+</ol>
+
+</article></slide><slide class=""><hgroup><h2>The future!</h2></hgroup><article  id="the-future">
+
+<pre >1. All journals requiring code/data that runs and/or reproduces the figures
+2. The ability to submit data (done) and the ability to submit code (Zenodo?)
+3. Automated reproducibility</pre>
+
+</article></slide><slide class=""><hgroup><h2>Summary</h2></hgroup><article  id="summary">
+
+<pre >1. Making your papers/code reproducible is to your advantage* (*if you&#39;re intending to pursue a career in academia)
+2. Learn the tools of the trade (e.g. R packages, Rmarkdown, GitHub) for reproducibility
+3. Make reproducibility a cornerstone of every paper you write
+4. Do you best and don&#39;t beat yourself up about not making everything reproducible</pre>
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Back to the IPCC results</h2></hgroup><article  id="back-to-the-ipcc-results">
+
+</article></slide><slide class=""><hgroup><h2>Resources for this talk</h2></hgroup><article  id="resources-for-this-talk">
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Thank you!</h2></hgroup><article  id="thank-you"></article></slide>
 
 
   <slide class="backdrop"></slide>
