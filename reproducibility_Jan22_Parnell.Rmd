@@ -156,19 +156,25 @@ Layout:
 
 # Part 3: 5 pieces of advice {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/advice.png data-background-size=cover}
 
-# 1. You can't make your work completely reproducible
+## 1. You can't make your work completely reproducible
+
+<iframe src="https://giphy.com/embed/11tTNkNy1SdXGg" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-11tTNkNy1SdXGg">via GIPHY</a></p>
 
 ## 2. .. but try to make every piece of work you do as reproducible as possible via
 
-1. Make it open access (pretty much compulsory these days)
-2. Make it so that people (especially you) can re-create your graphs
-3. Make it so that they can generalise your code
+1. Make it <span style="color:red">open access</span> (pretty much compulsory these days)
+2. Make it so that people (especially you) can <span style="color:green">re-create your graphs</span>
+3. Make it so that they can <span style="color:blue">generalise your code</span>
 
-# 3. Aim to turn every paper you write into an R package and at least put it on GitHub or similar
+## 3. Aim to turn every paper you write into an R package and at least put it on GitHub or similar 
 
-# 4. Write better comments in your code (but nobody writes good comments)
+<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 
-# 5. Don't walk away from your hard work if you want to reap the benefits from it, (and be brave about mistakes in your shared code)
+# <span style="color:pink">4. Write better comments in your code (but nobody writes good comments</span>) {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/code.png data-background-size=cover}
+
+## 5. Don't walk away from your hard work if you want to reap the benefits from it
+
+<iframe src="https://giphy.com/embed/jUwpNzg9IcyrK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-simpsons-scared-homer-simpson-jUwpNzg9IcyrK">via GIPHY</a></p>
 
 ## Some useful resources
 
@@ -179,10 +185,10 @@ Layout:
 
 ## The future!
 
-1. All journals requiring code/data that runs and reproduces the figures
-2. The ability to submit data (done) and the ability to submit code (Zenodo?)
-3. Automated reproducibility
-	
+1. <font size="6">IAll journals requiring code/data that runs and <span style="color:red">open-source</span> reproduces the figures</font>
+2. <font size="6">The ability to <span style="color:orange">submit data</span> (done) and the ability to <span style="color:green">submit code</span> and get a DOI</font>
+3. <font size="6"><span style="color:blue">Automated reproducibility</span></font>
+
 ## Summary
 
 1. Making your papers/code reproducible is to your advantage* (*if you're intending to pursue a career in academia)
