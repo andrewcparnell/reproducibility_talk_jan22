@@ -1,12 +1,13 @@
 ---
-title: "Reproduction as an enjoyable and important part of your research"
-author: "Andrew C Parnell <br>`andrew.parnell@mu.ie`"
+title: "Reproduction as an enjoyable and important part of your research" 
+author: "Andrew C Parnell"
 date: "28th January 2022 <br> https://is.gd/reproduction"
 output: 
   ioslides_presentation: 
     css: my-style.css
     transition: slower
     widescreen: yes
+    linkcolor: white
 ---
 
 ```{r setup, include=FALSE}
@@ -34,19 +35,24 @@ library(viridis)
   }
 </style>
 
+
+
 ## Contents
 
 - Not about the birds and the bees! Instead <span class="red2" style="font-family:'Courier'">
 __reproducibility__</span>
 
-<br> <br>
+<br>
 
 Layout:
 
-1. Some stories
-2. A task for you
-3. Another story
-4. Some advice
+<span style="color:red">1. Some stories</span><br>
+
+<span style="color:blue">2. A task for you</span><br>
+
+<span style="color:green">3. Another story</span><br>
+
+<span style="color:black">4. Some advice</span><br>
 
 # Story number 1: Climate change and pollen {data-background=https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg data-background-size=cover}
 
@@ -64,18 +70,18 @@ Layout:
 # 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1VWybIFCQdLJblbPHu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/no-rainbow-nope-1VWybIFCQdLJblbPHu">via GIPHY</a></p>
 
-# Part 2: A task {data-background=https://giphy.com/embed/gH85KtY9fX2yd9eG4F data-background-size=cover}
+# Part 2: A task {data-background=https://live.staticflickr.com/5743/23287131203_6b2dab6e92_c_d.jpg data-background-size=cover}
 
 ## Details
 
 1. Download this file from GitHub: https://is.gd/IPCC2022
-2. There are 62 pages, so run `sample(1:62, 1)` (`random.choice(range(1, 62)`) in python).  Then count the number of references and do `sample(1:n_ref, 1)` to pick a random paper and copy the DOI (must start with 10.)
+2. There are 62 pages, so run `sample(1:62, 1)` (or `random.choice(range(1, 62)`) in python).  Then count the number of references and do `sample(1:n_ref, 1)` to pick a random paper and copy the DOI
 3. Search for the term `data`, note down the number of times it is mentioned 
 4. Search for `code`, note down the number of times it is mentioned 
 5. Search for `http` - see if there is code or data linked to the article that can be downloaded
 6. Fill in the Google form https://is.gd/IPCCform
 
-# Another story: my attempt at reproducibility done properly {data-background=https://andrewcparnell.github.io/Bchron/articles/Bchron_files/figure-html/code.png data-background-size=cover}
+# Another story: my attempt at reproducibility done properly {data-background=https://live.staticflickr.com/893/42328565782_4d2a4de8a2_c_d.jpg data-background-size=cover}
 
 ## Back in time
 
@@ -137,29 +143,30 @@ Layout:
 
 ## Some useful resources
 
-1. [Writing R packages](https://r-pkgs.org)
+1. [Writing R packages](https://r-pkgs.org) by Hadley Wickham
 2. [The BES guide to reproducibility]( https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
 3. [GitHub](https://github.com) and [Github Large File Storage](https://git-lfs.github.com)
-4. Defining good [folder structures]( https://github.com/ropensci/rrrpkg)
+4. Defining good [folder structures](https://github.com/ropensci/rrrpkg)
 
 ## The future!
 
-	1. All journals requiring code/data that runs and reproduces the figures
-	2. The ability to submit data (done) and the ability to submit code (Zenodo?)
-	3. Automated reproducibility
+1. All journals requiring code/data that runs and reproduces the figures
+2. The ability to submit data (done) and the ability to submit code (Zenodo?)
+3. Automated reproducibility
 	
 ## Summary
 
-	1. Making your papers/code reproducible is to your advantage* (*if you're intending to pursue a career in academia)
-	2. Learn the tools of the trade (e.g. R packages, Rmarkdown, GitHub) for reproducibility
-	3. Make reproducibility a cornerstone of every paper you write
-	4. Do you best and don't beat yourself up about not making everything reproducible
+1. Making your papers/code reproducible is to your advantage* (*if you're intending to pursue a career in academia)
+2. Learn the tools of the trade (e.g. R packages, Rmarkdown, GitHub) for reproducibility
+3. Make reproducibility a cornerstone of every paper you write
+4. Do you best and don't beat yourself up about not making everything reproducible
 	
 # Back to the IPCC results
 
 ## Resources and funding
 
-
+Title slide: [NIAID](https://www.flickr.com/photos/niaid/)
+Monticchio: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b1/Monticchio_Laghi.jpg)
 
 Thank you!
 
