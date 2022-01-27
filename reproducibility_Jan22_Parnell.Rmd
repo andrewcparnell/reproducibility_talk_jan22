@@ -83,17 +83,21 @@ Layout:
 
 ## Confidence in the IPCC
 
-![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/IPCC_confidence.png){width=100%}
+<center> 
+
+![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/IPCC_confidence.png){width=80%}
+
+</center> 
 
 ## Your mission...
 
 1. Download this file from GitHub: https://is.gd/IPCC2022
 2. There are 62 pages, so run `sample(1:62, 1)`. Then count the number of references and do `sample(1:n_ref, 1)` to pick a random paper and copy the DOI
-3. Search for the term `data`. Note down the number of times it is mentioned 
-4. Search for `code`. Note down the number of times it is mentioned 
-5. Search for `http`. See if there is code or data linked to the article that can be downloaded
-6. Fill in the Google form: https://is.gd/IPCCform
-7. Repeat as many times as you want
+3. Search the paper for `http`. See if there is code or data linked to the article that can be downloaded
+4. Copy across the URLs of the data/code links and... 
+6. Fill all this in the Google form: https://is.gd/IPCCform
+
+Repeat as many times as you want
 
 # Another story: my attempt at reproducibility done properly {data-background=https://live.staticflickr.com/893/42328565782_4d2a4de8a2_c_d.jpg data-background-size=cover}
 
