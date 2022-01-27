@@ -83,7 +83,7 @@ Layout:
 
 ## Confidence in the IPCC
 
-![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/IPCC_confidence.png){width=50%}
+![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/IPCC_confidence.png){width=100%}
 
 ## Your mission...
 
