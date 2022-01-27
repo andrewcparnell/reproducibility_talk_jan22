@@ -184,7 +184,7 @@ Repeat as many times as you want
 ## Some useful resources
 
 1. [Writing R packages](https://r-pkgs.org) by Hadley Wickham
-2. [The BES guide to reproducibility]( https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+2. [The BES guide to reproducibility]( https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) (h/t Catherine Hurley)
 3. [GitHub](https://github.com) and [Github Large File Storage](https://git-lfs.github.com)
 4. Defining good [folder structures](https://github.com/ropensci/rrrpkg)
 
