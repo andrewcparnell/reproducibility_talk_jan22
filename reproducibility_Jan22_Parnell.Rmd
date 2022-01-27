@@ -211,6 +211,7 @@ Monticchio: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b1/Mont
 gifs: [Giphy](https://giphy.com);
 AMS machine: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg);
 Roadworks background: [flickr/Jeremy Segrott](https://www.flickr.com/photos/126337928@N05/);
+Confidence in the IPCC: [IPCC.ch](https://www.ipcc.ch/site/assets/uploads/2017/08/AR5_Uncertainty_Guidance_Note.pdf)
 Baby turtle: [flickr/Pedro Szekely](https://www.flickr.com/photos/pedrosz/);
 [BART generator](http://www.ranzey.com/generators/bart/index.html);
 Anger: [flickr/Saurabh Vyas](https://www.flickr.com/photos/vyassaurabh411/);
