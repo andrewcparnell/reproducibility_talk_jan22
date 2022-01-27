@@ -76,6 +76,10 @@ Layout:
 
 # Part 2: Reproducibility and the IPCC;  a task {data-background=https://live.staticflickr.com/5743/23287131203_6b2dab6e92_c_d.jpg data-background-size=cover}
 
+## Confidence in the IPCC
+
+![](https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/IPCC_confidence.png){width=50%}
+
 ## Your mission...
 
 1. Download this file from GitHub: https://is.gd/IPCC2022
