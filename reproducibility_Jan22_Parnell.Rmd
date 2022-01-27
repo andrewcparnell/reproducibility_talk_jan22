@@ -190,7 +190,7 @@ Repeat as many times as you want
 
 ## The future!
 
-1. <font size="6">All journals requiring code/data that runs and <span style="color:red">open-source</span> reproduces the figures</font>
+1. <font size="6">All journals requiring <span style="color:red">open-source</span> code/data that runs and reproduces the figures</font>
 2. <font size="6">The ability to <span style="color:orange">submit data</span> (done) and the ability to <span style="color:green">submit code</span> and get a DOI</font>
 3. <font size="6"><span style="color:blue">Automated reproducibility</span></font>
 
