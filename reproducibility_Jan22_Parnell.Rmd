@@ -214,11 +214,16 @@ Baby turtle: [flickr/Pedro Szekely](https://www.flickr.com/photos/pedrosz/);
 [BART generator](http://www.ranzey.com/generators/bart/index.html);
 Anger: [flickr/Saurabh Vyas](https://www.flickr.com/photos/vyassaurabh411/);
 Walking: [flickr/gato-gato-gato](https://www.flickr.com/photos/gato-gato-gato/)
-All materials: [Github repo](https://github.com/andrewcparnell/reproducibility_talk_jan22)
+__All materials: [Github repo](https://github.com/andrewcparnell/reproducibility_talk_jan22)__
 
 This work was supported by a Science Foundation Ireland Career Development Award grant 17/CDA/4695
 
+
 <center>
+
+![](https://www.sfi.ie/sfi-logo-and-guidelines/SFI_logo_2017__Dual(long)_CMYK.png){width=50%}
+
+<br> 
 
 <font size="6"><span style="color:red;">Thank you!</span></font>
 
