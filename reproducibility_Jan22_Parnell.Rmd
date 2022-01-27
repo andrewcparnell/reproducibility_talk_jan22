@@ -61,6 +61,8 @@ Layout:
 
 # {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/xl.png data-background-size=cover}
 
+# {data-background=https://github.com/andrewcparnell/reproducibility_talk_jan22/raw/main/img/jrssc.png data-background-size=cover}
+
 # <span style = "color:mediumspringgreen;position:relative;top:100px;">Story number 2: Radiocarbon dating</span> {data-background=https://upload.wikimedia.org/wikipedia/commons/f/f0/1_MV_accelerator_mass_spectrometer.jpg data-background-size=cover}
 
 ## Radiocarbon calibration
@@ -73,6 +75,9 @@ Layout:
 
 # 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1VWybIFCQdLJblbPHu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/no-rainbow-nope-1VWybIFCQdLJblbPHu">via GIPHY</a></p>
+
+# 
+<iframe src="https://giphy.com/embed/eGxNpPRVhqoAyf9X7t" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/theartplug-never-nothing-i-dont-eGxNpPRVhqoAyf9X7t">via GIPHY</a></p>
 
 # Part 2: Reproducibility and the IPCC;  a task {data-background=https://live.staticflickr.com/5743/23287131203_6b2dab6e92_c_d.jpg data-background-size=cover}
 
